@@ -1,3 +1,38 @@
 <resources>
-    <string name="app_name">ProjetDevMobile0103</string>
+    <string name="app_name"> art.Prompts </string>
+
+<!--    Page d'accueil-->
+    <string name="home_page_title"> Thèmes tendances</string>
+    <string name="home_page_new"> Nouveaux thèmes</string>
+
+    <string name="application_pitch"> Vous voulez écrire, déssiner ou créer mais vous faites face au syndrome de la page blanche ? Choississez un thème et laissez-vous tenter par l\'aléatoire. </string>
+
+<!--    THEMES-->
+    <string name="theme_Steampunk">Steampunk</string>
+        Propositions
+        <string-array name="steampunk_array">
+            <item>Votre tenue préférée version steampunk</item>
+            <item>Un véhicule a vapeur</item>
+            <item>Un arme à feu</item>
+        </string-array>
+    <string name="theme_sci_fi">Science Fiction</string>
+<!--    <string-array name="sci_fi_array">
+        <item>un véhicule spatial</item>
+        <item>Une planète recouverte d'eau</item>
+        <item>Une scène quotidienne dans un monde sci-fi</item>
+    </string-array>
+    <string name="theme_fantasy">Fantasy</string>
+    <string-array name="fantasy_array">
+        <item>Vous en elfe//orc//nain</item>
+        <item>Un archer aux aguets</item>
+        <item>Un feu de camp</item>
+    </string-array>-->
+    <string name="theme_urban">Urbain</string>
+    <string name="theme_urban_desc">Illustration Urbain</string>
+    <string-array name="urban_array">
+        <item>Un graffiti a votre image</item>
+        <item>Un jeune adulte, dans une rue en train de manger</item>
+        <item>Une femme, attendant son bus</item>
+    </string-array>
+
 </resources>
