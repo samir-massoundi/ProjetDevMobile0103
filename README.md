@@ -25,5 +25,5 @@ Projet Developpement Mobile
         
 # Images 
     Page d'accueil 
-    ![Page d'accueil](imagesProjet/Screenshot1.png?raw=true "Ecran d'accueil")
+    ![Page d'accueil](https://github.com/samir-massoundi/ProjetDevMobile0103/blob/master/imagesProjet/Screenshot1.png?raw=true)
     La page d'accueil reporte les thèmes tendances, on utilier une RecyclerView  et des CardView pour afficher cette liste.
